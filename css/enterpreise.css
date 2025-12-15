@@ -1,0 +1,87 @@
+.lm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+}
+.busines {
+  background-color: white;
+  margin-right: 200px;
+  margin-top: 50px;
+  margin-right: 50px;
+  width: 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+.solution {
+  background-color: rgba(120, 235, 158, 0.2);
+  color:  blue;
+  width: 200px;
+  border-radius: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.solution1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.solution2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  background: radial-gradient( rgb(2, 58, 2), rgb(95, 108, 221));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.umar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  color: rgb(82, 79, 79);
+}
+.umar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  color: rgb(82, 79, 79);
+}
+.umar9 {
+ display: flex;
+  justify-content: center;
+  align-items: center;  
+color: rgb(82, 79, 79);
+}
+.umar8 {
+ display: flex;
+  justify-content: center;
+  align-items: center;  
+color: rgb(82, 79, 79);
+}
+.img1 {
+  color: blue;
+}
+.img2 {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  
+}
