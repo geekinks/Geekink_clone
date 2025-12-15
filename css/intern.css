@@ -1,0 +1,50 @@
+body{
+    font-family:inter , Arial, sans-serif ;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.button-container{
+    display: flex;
+    gap: 14px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px   24px;
+    font-size: 16px;
+    font-weight:600;
+    border-radius: 8px;
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: all 0.25 ease;
+}
+.btn-filled{
+    background-color: mediumseagreen;
+    color: white;
+    border-color: mediumseagreen;
+}
+.btn-filled:hover {
+    background-color: seagreen;
+}
+
+.btn-outline{
+    background-color: white;
+    color: mediumseagreen;
+    border-color: mediumseagreen;
+}
+.btn-outline:hover{
+    background-color: honeydew;
+
+}
+.btn-filled::before{
+    content:🚀;
+font-size: 16px;
+}
+.btn-filled::before{
+    content:🎓 ;
+    font-size: 16px;
+}
